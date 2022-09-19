@@ -1,0 +1,81 @@
+* {
+    box-sizing: border-box;
+  }
+
+  header {
+    padding: 5rem 2rem;
+  }
+  
+  body {
+    margin: 0;
+    font-family: Helvetica;
+    height: 100vh;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+  }
+
+  .computer-tabe-sec {
+    padding: 2rem 2rem;
+
+  }
+
+  .comp-table-container {
+    margin: 0 auto;
+    max-width: 500px;
+    display: grid;
+    background-color: red;
+    border-radius: 30px;
+  }
+
+  .dealers-cards {
+    padding: 4rem 3rem;
+    font-weight: 1000;
+    font-size: 20px;
+    align-content: center;
+    display: flex;
+    margin: 0 300px 0 300px;
+    border-radius: 30px;
+    background-color: lightpink;
+  }
+
+  .c-table-area {
+    color: white;
+  }
+
+  .player-table-sec {
+    padding: 2rem 2rem;
+  }
+
+  .player-table-container {
+    margin: 0 auto;
+    max-width: 500px;
+    display: grid;
+    background-color: blue;
+    border-radius: 30px
+  }
+
+  .p-table-area {
+    color: white;
+  }
+
+  .player-cards {
+    padding: 4rem 3rem;
+    font-weight: 1000;
+    font-size: 20px;
+    align-content: center;
+    display: flex;
+    margin: -31px 300px 0 300px;
+    border-radius: 30px;
+    background-color: lightblue;
+  }
+
+  .button-container {
+    display: flex;
+    align-content: center;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 3rem;
+  }
+  
