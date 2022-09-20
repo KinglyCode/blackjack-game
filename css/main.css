@@ -3,7 +3,7 @@
   }
 
   header {
-    padding: 5rem 2rem;
+    padding: 1rem 2rem;
   }
   
   body {
@@ -29,7 +29,7 @@
   }
 
   .dealers-cards {
-    padding: 4rem 3rem;
+    padding: 3rem 3rem;
     font-weight: 1000;
     font-size: 20px;
     align-content: center;
@@ -39,16 +39,32 @@
     background-color: lightpink;
   }
 
+  .dealers-cards img {
+    height: 150px;
+    width: 100px;
+    border: 5px solid white;
+  }
+
   .c-table-area {
     color: white;
   }
 
+  #message-box {
+    margin: 0 auto;
+    padding: 2rem 1rem;
+    font-size: 30px;
+    color: white;
+    max-width: 300px;
+    display: grid;
+  }
+  
+
   .player-table-sec {
-    padding: 2rem 2rem;
+    padding: 1rem 2rem;
   }
 
   .player-table-container {
-    margin: 0 auto;
+    margin: 0 auto -60px;
     max-width: 500px;
     display: grid;
     background-color: blue;
@@ -68,6 +84,11 @@
     margin: -31px 300px 0 300px;
     border-radius: 30px;
     background-color: lightblue;
+  }
+
+  .player-sum-container {
+    margin: auto;
+    padding: 2rem 3rem;
   }
 
   .button-container {
