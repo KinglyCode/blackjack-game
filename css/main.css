@@ -28,19 +28,19 @@
     border-radius: 30px;
   }
 
-  .dealers-cards {
+  #dealers-cards {
     padding: 3rem 3rem;
     font-weight: 1000;
     font-size: 20px;
     align-content: center;
     display: flex;
-    margin: 0 300px 0 300px;
+    margin: 0 500px 0 500px;
     border-radius: 30px;
     background-color: lightpink;
   }
 
-  .dealers-cards img {
-    height: 150px;
+  #dealers-cards img {
+    height: 117px;
     width: 100px;
     border: 5px solid white;
   }
@@ -75,13 +75,13 @@
     color: white;
   }
 
-  .player-cards {
+  #player-cards {
     padding: 4rem 3rem;
     font-weight: 1000;
     font-size: 20px;
     align-content: center;
     display: flex;
-    margin: -31px 300px 0 300px;
+    margin: -31px 500px 0 500px;
     border-radius: 30px;
     background-color: lightblue;
   }
