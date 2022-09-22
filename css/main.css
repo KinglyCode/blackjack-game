@@ -7,6 +7,7 @@
   }
   
   body {
+    vertical-align: baseline;
     margin: 0;
     font-family: Helvetica;
     height: 100vh;
@@ -29,18 +30,19 @@
   }
 
   #dealers-cards {
-    padding: 3rem 3rem;
+    padding: 10px;
     font-weight: 1000;
     font-size: 20px;
-    align-content: center;
+    justify-content: center;
+    align-items: center;
     display: flex;
-    margin: 0 500px 0 500px;
+    margin: 0 400px 0 375px;
     border-radius: 30px;
     background-color: lightpink;
   }
 
   #dealers-cards img {
-    height: 117px;
+    height: 100px;
     width: 100px;
     border: 5px solid white;
   }
@@ -50,9 +52,10 @@
   }
 
   #message-box {
-    margin: 0 auto;
-    padding: 2rem 1rem;
+    margin: 30px auto;
+    padding: 3rem 1rem;
     font-size: 30px;
+    background-color: green;
     color: white;
     max-width: 300px;
     display: grid;
@@ -60,11 +63,11 @@
   
 
   .player-table-sec {
-    padding: 1rem 2rem;
+    padding: 1rem 1rem;
   }
 
   .player-table-container {
-    margin: 0 auto -60px;
+    margin: 0 auto 20px;
     max-width: 500px;
     display: grid;
     background-color: blue;
@@ -75,20 +78,19 @@
     color: white;
   }
 
-  #player-cards {
-    padding: 4rem 3rem;
-    font-weight: 1000;
-    font-size: 20px;
-    align-content: center;
-    display: flex;
-    margin: -31px 500px 0 500px;
-    border-radius: 30px;
-    background-color: lightblue;
+  #p-card-title{
+    margin-top: -10px;
   }
 
-  .player-sum-container {
-    margin: auto;
-    padding: 2rem 3rem;
+  #player-cards {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 20px;
+    padding: 10px;
+    margin: 0 20em 20px 20em;
+    border-radius: 30px;
+    background-color: lightblue;
   }
 
   .button-container {
@@ -97,6 +99,18 @@
     flex-direction: row;
     justify-content: center;
     justify-content: space-around;
-    padding: 3rem;
+    padding-top: -50px;
+    padding-bottom: 80px;
   }
+
+  #start-btn, #hit-btn, #stay-btn{
+    font-size: 30px;
+  }
+
+  .card {
+    margin: 5px 5px 5px 5px;
+  }
+
+  
+  
   
