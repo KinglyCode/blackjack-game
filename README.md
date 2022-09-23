@@ -8,6 +8,20 @@ If you haven't played BlackJack, it's just a simple numbers game. You have to be
 
 The game just sets up the player with the dealer. Dealer is played by the Computer itself! 
 
+# Here are some screenshots of the game!
+
+NOTE: If you want to restart the game, refresh the page!
+
 ![game](./game-screenshots/Game%20Before%20Start.png)
 ![game](./game-screenshots/Game%20Beginning.png)
 ![game](./game-screenshots/Game%20End.png)
+
+Other than the note above, have fun, it works as intended.
+
+# Future Updates
+
+I will be coming back to this project to add more functionality to it, like a Reset button, adding the sums up and showing up on the page for the viewer to see. Thinking I might have to add things like doubling down and splitting cards!
+
+Other than that, please enjoy this small game!
+
+DISCLAIMER: Please do not copy this code and show it as your own. Thank you.
