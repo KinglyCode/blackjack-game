@@ -18,6 +18,9 @@ NOTE: If you want to restart the game, refresh the page!
 
 Other than the note above, have fun, it works as intended.
 
+# Game URL
+https://kinglycode.github.io/blackjack-game/
+
 # Future Updates
 
 I will be coming back to this project to add more functionality to it, like a Reset button, adding the sums up and showing up on the page for the viewer to see. Thinking I might have to add things like doubling down and splitting cards!
