@@ -8,3 +8,4 @@ If you haven't played BlackJack, it's just a simple numbers game. You have to be
 
 The game just sets up the player with the dealer. Dealer is played by the Computer itself! 
 
+![]()
